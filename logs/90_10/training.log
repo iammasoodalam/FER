@@ -1,0 +1,54 @@
+🚀 Starting Model Optimization Engine Loop...
+------------------------------------------------------------
+Epoch [01/50] (80.9s) -> Loss: 1.4742 | Acc: 49.37% || Val Loss: 1.2820 | Val Acc: 59.17%
+Epoch [02/50] (79.5s) -> Loss: 1.2695 | Acc: 60.71% || Val Loss: 1.1985 | Val Acc: 64.32%
+Epoch [03/50] (79.0s) -> Loss: 1.2041 | Acc: 64.58% || Val Loss: 1.1985 | Val Acc: 63.86%
+Epoch [04/50] (77.8s) -> Loss: 1.1666 | Acc: 66.41% || Val Loss: 1.1274 | Val Acc: 68.75%
+Epoch [05/50] (76.1s) -> Loss: 1.1381 | Acc: 68.00% || Val Loss: 1.1139 | Val Acc: 69.96%
+Epoch [06/50] (75.8s) -> Loss: 1.1113 | Acc: 69.61% || Val Loss: 1.0985 | Val Acc: 70.84%
+Epoch [07/50] (76.7s) -> Loss: 1.0903 | Acc: 70.47% || Val Loss: 1.0913 | Val Acc: 70.48%
+Epoch [08/50] (76.2s) -> Loss: 1.0661 | Acc: 72.05% || Val Loss: 1.0822 | Val Acc: 71.33%
+Epoch [09/50] (76.7s) -> Loss: 1.0483 | Acc: 72.77% || Val Loss: 1.0813 | Val Acc: 70.12%
+Epoch [10/50] (76.1s) -> Loss: 1.0254 | Acc: 73.81% || Val Loss: 1.0554 | Val Acc: 72.90%
+Epoch [11/50] (76.0s) -> Loss: 1.0111 | Acc: 74.82% || Val Loss: 1.0670 | Val Acc: 71.92%
+Epoch [12/50] (76.5s) -> Loss: 0.9852 | Acc: 76.20% || Val Loss: 1.0588 | Val Acc: 73.06%
+Epoch [13/50] (76.6s) -> Loss: 0.9681 | Acc: 77.21% || Val Loss: 1.0686 | Val Acc: 72.50%
+Epoch [14/50] (76.5s) -> Loss: 0.9471 | Acc: 78.23% || Val Loss: 1.0689 | Val Acc: 72.99%
+Epoch [15/50] (76.5s) -> Loss: 0.9223 | Acc: 79.60% || Val Loss: 1.0634 | Val Acc: 72.93%
+Epoch [16/50] (76.5s) -> Loss: 0.9004 | Acc: 80.49% || Val Loss: 1.0550 | Val Acc: 73.55%
+Epoch [17/50] (76.5s) -> Loss: 0.8762 | Acc: 82.06% || Val Loss: 1.0646 | Val Acc: 73.19%
+Epoch [18/50] (76.6s) -> Loss: 0.8486 | Acc: 83.27% || Val Loss: 1.0658 | Val Acc: 73.91%
+Epoch [19/50] (76.5s) -> Loss: 0.8258 | Acc: 84.42% || Val Loss: 1.0759 | Val Acc: 73.55%
+Epoch [20/50] (76.5s) -> Loss: 0.8033 | Acc: 85.67% || Val Loss: 1.0880 | Val Acc: 72.86%
+Epoch [21/50] (76.5s) -> Loss: 0.7846 | Acc: 86.55% || Val Loss: 1.1006 | Val Acc: 73.16%
+Epoch [22/50] (76.5s) -> Loss: 0.7603 | Acc: 87.74% || Val Loss: 1.0938 | Val Acc: 73.55%
+Epoch [23/50] (75.6s) -> Loss: 0.7391 | Acc: 89.11% || Val Loss: 1.1211 | Val Acc: 72.67%
+Epoch [24/50] (75.0s) -> Loss: 0.7175 | Acc: 90.13% || Val Loss: 1.1038 | Val Acc: 73.55%
+Epoch [25/50] (75.1s) -> Loss: 0.7015 | Acc: 90.86% || Val Loss: 1.1175 | Val Acc: 72.99%
+Epoch [26/50] (75.1s) -> Loss: 0.6835 | Acc: 91.87% || Val Loss: 1.1042 | Val Acc: 73.71%
+Epoch [27/50] (75.1s) -> Loss: 0.6675 | Acc: 92.52% || Val Loss: 1.1374 | Val Acc: 73.06%
+Epoch [28/50] (75.1s) -> Loss: 0.6508 | Acc: 93.61% || Val Loss: 1.1264 | Val Acc: 73.78%
+Epoch [29/50] (75.1s) -> Loss: 0.6400 | Acc: 93.98% || Val Loss: 1.1284 | Val Acc: 73.12%
+Epoch [30/50] (75.0s) -> Loss: 0.6281 | Acc: 94.48% || Val Loss: 1.1288 | Val Acc: 74.27%
+Epoch [31/50] (75.0s) -> Loss: 0.6163 | Acc: 95.17% || Val Loss: 1.1307 | Val Acc: 73.42%
+Epoch [32/50] (75.1s) -> Loss: 0.6058 | Acc: 95.60% || Val Loss: 1.1395 | Val Acc: 73.87%
+Epoch [33/50] (75.1s) -> Loss: 0.5978 | Acc: 95.90% || Val Loss: 1.1335 | Val Acc: 73.68%
+Epoch [34/50] (75.0s) -> Loss: 0.5885 | Acc: 96.51% || Val Loss: 1.1377 | Val Acc: 73.26%
+Epoch [35/50] (75.1s) -> Loss: 0.5832 | Acc: 96.72% || Val Loss: 1.1284 | Val Acc: 74.07%
+Epoch [36/50] (75.0s) -> Loss: 0.5729 | Acc: 97.11% || Val Loss: 1.1374 | Val Acc: 73.71%
+Epoch [37/50] (75.1s) -> Loss: 0.5713 | Acc: 97.21% || Val Loss: 1.1288 | Val Acc: 73.65%
+Epoch [38/50] (75.0s) -> Loss: 0.5653 | Acc: 97.45% || Val Loss: 1.1346 | Val Acc: 73.71%
+Epoch [39/50] (75.1s) -> Loss: 0.5626 | Acc: 97.49% || Val Loss: 1.1372 | Val Acc: 73.26%
+Epoch [40/50] (75.1s) -> Loss: 0.5570 | Acc: 97.76% || Val Loss: 1.1335 | Val Acc: 73.55%
+Epoch [41/50] (75.1s) -> Loss: 0.5519 | Acc: 97.97% || Val Loss: 1.1348 | Val Acc: 73.19%
+Epoch [42/50] (75.0s) -> Loss: 0.5513 | Acc: 98.04% || Val Loss: 1.1294 | Val Acc: 73.32%
+Epoch [43/50] (75.0s) -> Loss: 0.5483 | Acc: 98.17% || Val Loss: 1.1255 | Val Acc: 73.68%
+Epoch [44/50] (75.1s) -> Loss: 0.5461 | Acc: 98.21% || Val Loss: 1.1335 | Val Acc: 73.52%
+Epoch [45/50] (75.1s) -> Loss: 0.5437 | Acc: 98.30% || Val Loss: 1.1318 | Val Acc: 73.71%
+Epoch [46/50] (75.1s) -> Loss: 0.5434 | Acc: 98.37% || Val Loss: 1.1367 | Val Acc: 73.42%
+Epoch [47/50] (75.1s) -> Loss: 0.5420 | Acc: 98.39% || Val Loss: 1.1346 | Val Acc: 73.65%
+Epoch [48/50] (75.0s) -> Loss: 0.5409 | Acc: 98.49% || Val Loss: 1.1348 | Val Acc: 73.29%
+Epoch [49/50] (75.1s) -> Loss: 0.5420 | Acc: 98.37% || Val Loss: 1.1270 | Val Acc: 73.84%
+Epoch [50/50] (75.1s) -> Loss: 0.5397 | Acc: 98.49% || Val Loss: 1.1302 | Val Acc: 73.61%
+------------------------------------------------------------
+Optimization Complete! Peak Validation Accuracy: 74.27%
