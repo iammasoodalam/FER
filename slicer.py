@@ -63,7 +63,7 @@ if __name__ == "__main__":
     
     # EDIT THESE PATHS
     RAW_DATASET_PATH = "data/affectnet"
-    EXPORT_TARGET_PATH = "data/affecnet_splits"
+    EXPORT_TARGET_PATH = "data/affectnet_splits"
     
     split_and_save_dataset(RAW_DATASET_PATH, EXPORT_TARGET_PATH, RATIOS)
     print("\n All physical splits have been created and saved to disk safely!")
